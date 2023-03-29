@@ -1,0 +1,16 @@
+exclude: ["README.md"]
+
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!`
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+    
+author:
+  name: Simon Leboulanger
+  url: https://github.com/Simon-att
+  
